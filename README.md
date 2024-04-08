@@ -75,3 +75,5 @@ Septembre 2024
 ## Contribuer
 
 N'hésitez pas à échanger en créant de nouvelles [discussions](https://github.com/renolab/controle/discussions).
+
+Un [wiki](https://github.com/renolab/controle/wiki) est mis à disposition. Son contenu est mis à jour en fonction de l'évolution du projet.
